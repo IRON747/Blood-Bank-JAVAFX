@@ -4,7 +4,7 @@ To use this program in your system please follow the following instructions:-
 Java(TM) SE Runtime Environment (build 1.8.0_261-b12) )
    
 2. Install mysql version of 5.6 or 5.7 (Choose port 3309 if you have 3306 or vice versa).
-   and make sure to choose password as "root".
+   and make sure to choose password as "root" .
 
 3. After installing mySql run the following commands:
 	

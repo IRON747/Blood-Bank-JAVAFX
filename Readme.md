@@ -42,4 +42,4 @@ Java(TM) SE Runtime Environment (build 1.8.0_261-b12) )
  
  4. Now go to the netbeans File-> Open Project -> Select Project .
 	
- 5. Now compile the project and run. 
+ 5. Now compile the project & run. 
